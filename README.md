@@ -1,6 +1,6 @@
 # 🚀 Code-A-Thon 2025
 
-**Code-A-Thon** is an intense, **one-month-long Web 2.0-based web development competition** where participants will build high-quality projects using **cutting-edge industry technologies**. This is not a low-code/no-code competition—your coding skills will be put to the test!
+**Code-A-Thon** is an **one-month-long Web 2.0-based web development competition** where participants will build high-quality projects using **cutting-edge industry technologies**. This is not a low-code/no-code competition—your coding skills will be put to the test!
 
 ## 🔥 Challenge Overview
 In this competition, you will **design and develop a brand-new website** for the **Science and Technology (SNT) Club** from scratch. Your mission is to create a visually appealing, highly functional, and responsive platform that showcases the club’s activities, events, and impact.
