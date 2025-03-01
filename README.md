@@ -24,9 +24,9 @@ While you are **free to use any tech stack**, we **recommend** the following for
 - **Increase your network**
 
 ## 🔗 Important Links
-- [📌 Registration Guidelines](#)
-- [📝 Judgement Criteria](#)
-- [📤 Submission Guidelines](#)
+- [📌 Registration Guidelines](https://github.com/snt-club/Code-A-Thon-2025/blob/main/registration-guidelines.md)
+- [📝 Judgement Criteria](https://github.com/snt-club/Code-A-Thon-2025/blob/main/judgement-criteria.md)
+- [📤 Submission Guidelines](https://github.com/snt-club/Code-A-Thon-2025/blob/main/submission-guidelines.md)
 
 ## 🚨 Are You Ready?
 The countdown has begun. It’s time to bring your **A-game**, **innovate**, and **build something extraordinary**. 
